@@ -1,7 +1,8 @@
 - 👋 Hi, I’m Dmitry (@DmBand)
 - 🌱 I’m looking for a job as a Trainee/Junior Python Developer
 - 👀 Please take a look at my projects
-Contacts:
+
+*Contacts:*
 - 📫 LinkedIn: https://www.linkedin.com/in/dmitry-bandysik-5b1941231/
 - 📫 Instagram: https://www.instagram.com/dima.bandysik/
 - 📫 Email: d.bandysik@gmail.con
