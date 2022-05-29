@@ -3,9 +3,9 @@
 - 👀 Please take a look at my projects
 
 *Contacts:*
-- 📫 LinkedIn: https://www.linkedin.com/in/dmitry-bandysik-5b1941231/
+- 📫 LinkedIn: [Dmitry Bandysik](https://www.linkedin.com/in/dmitry-bandysik-5b1941231/)
 - 📫 Instagram: [dima.bandysik](https://www.instagram.com/dima.bandysik/)
-- 📫 Email: d.bandysik@gmail.con
+- 📫 Email: d.bandysik@gmail.com
 
 <!---
 DmBand/DmBand is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
