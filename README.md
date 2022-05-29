@@ -4,7 +4,7 @@
 
 *Contacts:*
 - 📫 LinkedIn: https://www.linkedin.com/in/dmitry-bandysik-5b1941231/
-- 📫 Instagram: https://www.instagram.com/dima.bandysik/
+- 📫 Instagram: [dima.bandysik](https://www.instagram.com/dima.bandysik/)
 - 📫 Email: d.bandysik@gmail.con
 
 <!---
