@@ -3,7 +3,7 @@
 </div>
 
 - 👋 Hi, I’m Dmitry (@DmBand)
-- 🌱 I’m looking for a job as a Trainee/Junior Python Developer
+<!--- - 🌱 I’m looking for a job as a Trainee/Junior Python Developer --->
 - 👀 Please take a look at my projects
 
 👀 Here you will find projects with technologies such as:
