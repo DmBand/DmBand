@@ -4,10 +4,10 @@
 
 - 👋 Hi, I’m Dmitry (@DmBand)
 <!--- - 🌱 I’m looking for a job as a Trainee/Junior Python Developer --->
-- 👀 Please take a look at my projects
+<!-- - 👀 Please take a look at my projects -->
 
-👀 Here you will find projects with technologies such as:
-```Python```, ```Django```, ```DRF```, ```Aiogram```, ```BeautifulSoup```, ```JavaScript```
+<!-- 👀 Here you will find projects with technologies such as:
+```Python```, ```Django```, ```DRF```, ```Aiogram```, ```BeautifulSoup```, ```JavaScript``` -->
 
 *Contacts:*
 - 📫 LinkedIn: [Dmitry Bandysik](https://www.linkedin.com/in/dmitry-bandysik-5b1941231/)
